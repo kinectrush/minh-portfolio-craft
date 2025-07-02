@@ -29,7 +29,7 @@ const Projects = () => {
       description: "Mountain biking event series website"
     },
     {
-      name: "Film dán nội thất Perfect",
+      name: "Perfect interior solution",
       url: "https://giaiphapperfect.com",
       description: "Interior film solution company website"
     },

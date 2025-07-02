@@ -7,7 +7,7 @@ const Experience = () => {
     {
       company: "Techhaus Vietnam JSC",
       position: "Front-End Developer",
-      period: "June 2021 – Present",
+      period: "June 2021 - June 2025",
       responsibilities: [
         "Front-End Lead for multiple projects",
         "Developed SSR web apps for SEO & performance",

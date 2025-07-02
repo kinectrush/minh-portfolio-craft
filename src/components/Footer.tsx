@@ -33,9 +33,6 @@ const Footer = () => {
             <p className="text-gray-400">
               © 2024 Tran Cong Minh. All rights reserved.
             </p>
-            <p className="text-sm text-gray-500 mt-2">
-              Interests: Watching Movies, Running
-            </p>
           </div>
         </div>
       </div>
