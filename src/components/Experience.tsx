@@ -5,8 +5,24 @@ import { Briefcase, Calendar } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
+      company: "Galaxy Technology Services",
+      position: "Senior Software Engineer",
+      period: "July 2025 – Present",
+      responsibilities: [
+        "Participated in architecture design and front-end development of HDBiz digital banking platform using Angular",
+        "Developed reusable UI components ensuring consistency across enterprise banking applications",
+        "Implemented multi-step approval workflows, transaction management, account services, and authorization mechanisms",
+        "Optimized performance through lazy loading, modular architecture, and efficient state management",
+        "Collaborated with Business Analysts, UI/UX Designers, QA Engineers, and Back-End teams on banking features",
+        "Ensured code quality through code reviews, coding standards, and merge process oversight",
+        "Troubleshooting, bug fixing, and performance optimization in production environments"
+      ],
+      projects: "Domain Banking",
+      stack: "Angular, TypeScript, RxJS, SCSS, HTML5, Angular Material, RESTful APIs, Git"
+    },
+    {
       company: "Techhaus Vietnam JSC",
-      position: "Front-End Developer",
+      position: "Technical Lead",
       period: "June 2021 - June 2025",
       responsibilities: [
         "Front-End Lead for multiple projects",
