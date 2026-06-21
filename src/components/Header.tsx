@@ -11,7 +11,7 @@ const Header = () => {
             Tran Cong Minh
           </h1>
           <p className="text-2xl md:text-3xl font-light text-blue-100 mb-8">
-            Front-End Developer
+            Senior Software Engineer
           </p>
         </div>
         
