@@ -4,6 +4,11 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
+      name: "TechTalks",
+      url: "https://www.techtalks.io.vn/",
+      description: "Technology news and conversation platform"
+    },
+    {
       name: "ActiUp",
       url: "https://actiup.net",
       description: "Event management and ticketing platform"
