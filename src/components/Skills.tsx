@@ -4,12 +4,17 @@ import { Code } from 'lucide-react';
 
 const Skills = () => {
   const skills = [
+    'TypeScript',
+    'Angular',
     'ReactJS',
-    'React Native',
     'Next.js',
+    'React Native',
+    'RxJS',
+    'Angular Material',
     'HTML5',
     'SCSS',
     'TailwindCSS',
+    'RESTful APIs',
     'Unit Testing'
   ];
 
